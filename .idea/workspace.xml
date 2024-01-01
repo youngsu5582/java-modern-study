@@ -4,16 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da4cfb8b-b9bb-4d34-b0f9-3977daa8aa19" name="Changes" comment="feat : First Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1/IPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1/NonStreamAndForSyntax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1/NonStreamAndIteratorSyntax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1/StreamSyntax.java" afterDir="false" />
+    <list default="true" id="da4cfb8b-b9bb-4d34-b0f9-3977daa8aa19" name="Changes" comment="feat : First Section Upload">
+      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/CalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/CalculatorWithFpService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/CalculatorWithInjectionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/calculation/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/calculation/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/calculation/ECalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/calculation/ICalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/calculation/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/calculation/Subtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/section1_b/CalculatorServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/section1_b/CalculatorWithInjectionServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +34,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -36,9 +45,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2aI5bibYPnMDSUbgINP5rDiUJIE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,25 +59,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit&quot;: &quot;groovy.util.GroovyTestCase&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="section1_b" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.section1_b.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section1.Main" />
+      <option name="MAIN_CLASS_NAME" value="section1_addition.Main" />
       <module name="java-modern-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section1.*" />
+          <option name="PATTERN" value="section1_addition.calculation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,9 +97,109 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculatorServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;section1_b.CalculatorServiceTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorServiceTest.calculate" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;section1_b.CalculatorServiceTest.calculate&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorWithInjectionServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;section1_b.CalculatorWithInjectionServiceTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorWithInjectionServiceTest.연산자를_주입받아_연산을_실행한다" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;section1_b.CalculatorWithInjectionServiceTest.연산자를_주입받아_연산을_실행한다&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.CalculatorWithInjectionServiceTest" />
+        <item itemvalue="Gradle.CalculatorWithInjectionServiceTest.연산자를_주입받아_연산을_실행한다" />
+        <item itemvalue="Gradle.CalculatorServiceTest" />
+        <item itemvalue="Gradle.CalculatorServiceTest.calculate" />
+        <item itemvalue="Application.section1_b.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -96,11 +220,20 @@
       <option name="project" value="LOCAL" />
       <updated>1704028518002</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat : First Section Upload">
+      <option name="closed" value="true" />
+      <created>1704031760654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704031760654</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat : First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : First Commit" />
+    <MESSAGE value="feat : First Section Upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : First Section Upload" />
   </component>
 </project>
