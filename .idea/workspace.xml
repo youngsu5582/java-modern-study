@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da4cfb8b-b9bb-4d34-b0f9-3977daa8aa19" name="Changes" comment="feat : First Section Upload">
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/CalculatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/CalculatorWithFpService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/CalculatorWithInjectionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/calculation/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/calculation/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/calculation/ECalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/calculation/ICalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/calculation/Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section1_b/calculation/Subtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/section1_b/CalculatorServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/section1_b/CalculatorWithInjectionServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="da4cfb8b-b9bb-4d34-b0f9-3977daa8aa19" name="Changes" comment="feat : First Section(Addition) Upload">
+      <change afterPath="$PROJECT_DIR$/src/main/java/section2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section2/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,13 +71,13 @@
       <recent name="section1_b" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section1_b.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section1_addition.Main" />
+  <component name="RunManager" selected="Application.section2.Main">
+    <configuration name="section2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section2.Main" />
       <module name="java-modern-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section1_addition.calculation.*" />
+          <option name="PATTERN" value="section2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section2.Main" />
         <item itemvalue="Gradle.CalculatorWithInjectionServiceTest" />
         <item itemvalue="Gradle.CalculatorWithInjectionServiceTest.연산자를_주입받아_연산을_실행한다" />
         <item itemvalue="Gradle.CalculatorServiceTest" />
         <item itemvalue="Gradle.CalculatorServiceTest.calculate" />
-        <item itemvalue="Application.section1_b.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -228,12 +216,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704031760654</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat : First Section(Addition) Upload">
+      <option name="closed" value="true" />
+      <created>1704098806200</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704098806200</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat : First Commit" />
     <MESSAGE value="feat : First Section Upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : First Section Upload" />
+    <MESSAGE value="feat : First Section(Addition) Upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : First Section(Addition) Upload" />
   </component>
 </project>
