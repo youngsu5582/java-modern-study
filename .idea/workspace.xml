@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da4cfb8b-b9bb-4d34-b0f9-3977daa8aa19" name="Changes" comment="feat : First Section(Addition) Upload">
-      <change afterPath="$PROJECT_DIR$/src/main/java/section2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section2/README.md" afterDir="false" />
+    <list default="true" id="da4cfb8b-b9bb-4d34-b0f9-3977daa8aa19" name="Changes" comment="feat : Second Section Upload">
+      <change afterPath="$PROJECT_DIR$/src/main/java/section3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section4/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +73,20 @@
       <recent name="section1_b" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section2.Main">
+  <component name="RunManager" selected="Application.section4.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section3.Main" />
+      <module name="java-modern-study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="section2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section2.Main" />
       <module name="java-modern-study.main" />
@@ -85,53 +100,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;section1_b.CalculatorServiceTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="CalculatorServiceTest.calculate" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;section1_b.CalculatorServiceTest.calculate&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
+    <configuration name="section4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section4.Main" />
+      <module name="java-modern-study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="CalculatorWithInjectionServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -183,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section4.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.section2.Main" />
         <item itemvalue="Gradle.CalculatorWithInjectionServiceTest" />
         <item itemvalue="Gradle.CalculatorWithInjectionServiceTest.연산자를_주입받아_연산을_실행한다" />
-        <item itemvalue="Gradle.CalculatorServiceTest" />
-        <item itemvalue="Gradle.CalculatorServiceTest.calculate" />
       </list>
     </recent_temporary>
   </component>
@@ -224,13 +204,22 @@
       <option name="project" value="LOCAL" />
       <updated>1704098806200</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat : Second Section Upload">
+      <option name="closed" value="true" />
+      <created>1704101541896</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704101541896</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat : First Commit" />
     <MESSAGE value="feat : First Section Upload" />
     <MESSAGE value="feat : First Section(Addition) Upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : First Section(Addition) Upload" />
+    <MESSAGE value="feat : Second Section Upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : Second Section Upload" />
   </component>
 </project>
