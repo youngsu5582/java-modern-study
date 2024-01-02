@@ -10,6 +10,11 @@ repositories {
 }
 
 dependencies {
+    // lombok plugin
+    implementation 'org.projectlombok:lombok:1.18.20' // 여기서 버전은 최신 버전으로 변경하세요.
+    annotationProcessor 'org.projectlombok:lombok:1.18.20'
+
+
     testImplementation platform('org.junit:junit-bom:5.9.1')
     testImplementation 'org.junit.jupiter:junit-jupiter'
 }
@@ -17,6 +22,7 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+
 java{
     toolchain {
         languageVersion = JavaLanguageVersion.of(17)
