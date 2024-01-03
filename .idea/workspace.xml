@@ -4,9 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da4cfb8b-b9bb-4d34-b0f9-3977daa8aa19" name="Changes" comment="feat : Seventh Section Upload">
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/README.md" afterDir="false" />
+    <list default="true" id="da4cfb8b-b9bb-4d34-b0f9-3977daa8aa19" name="Changes" comment="docs : Seventh Section README Upload&#10;&#10;실수로 누락된 README Update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/stream/section1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stream/section2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stream/section3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stream/section3/Temp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1/IPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1/IPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1/NonStreamAndForSyntax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1/NonStreamAndForSyntax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1/NonStreamAndIteratorSyntax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1/NonStreamAndIteratorSyntax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1/StreamSyntax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1/StreamSyntax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/CalculatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/CalculatorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/CalculatorWithFpService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/CalculatorWithFpService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/CalculatorWithInjectionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/CalculatorWithInjectionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/calculation/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/calculation/Addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/calculation/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/calculation/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/calculation/ECalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/calculation/ECalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/calculation/ICalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/calculation/ICalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/calculation/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/calculation/Multiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/calculation/Subtraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/calculation/Subtraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section5/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section6/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section6/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section6/TriFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section6/TriFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section7/BigDecimalToCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/BigDecimalToCurrency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section7/InvalidFunctionInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/InvalidFunctionInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section7/domain/DiscountedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/domain/DiscountedProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section7/domain/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/domain/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section7/domain/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/domain/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section7/domain/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/domain/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section7/util/CalculationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/util/CalculationUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/section1_addition/CalculatorServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section1_addition/CalculatorServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/section1_addition/CalculatorWithInjectionServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section1_addition/CalculatorWithInjectionServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +102,8 @@
         <option value="package-info" />
         <option value="JUnit5 Test Class" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -88,6 +130,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Gradle.java-modern-study [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-modern-study [:Temp.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-modern-study [dependencies].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -96,11 +139,11 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit&quot;: &quot;groovy.util.GroovyTestCase&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -112,13 +155,13 @@
       <recent name="section1_b" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.section7.Main">
-    <configuration name="section4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section4.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.section1.Main" />
       <module name="java-modern-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section4.*" />
+          <option name="PATTERN" value="stream.section1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="section5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.Main" />
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.section3.Temp" />
       <module name="java-modern-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section5.*" />
+          <option name="PATTERN" value="stream.section3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="section6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section6.Main" />
+    <configuration name="stream.section2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.section2.Main" />
       <module name="java-modern-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section6.*" />
+          <option name="PATTERN" value="stream.section2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="section7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section7.Main" />
+    <configuration name="stream.section3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.section3.Main" />
       <module name="java-modern-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section7.*" />
+          <option name="PATTERN" value="stream.section3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,10 +233,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.java-modern-study [dependencies]" />
-        <item itemvalue="애플리케이션.section7.Main" />
-        <item itemvalue="애플리케이션.section6.Main" />
-        <item itemvalue="애플리케이션.section5.Main" />
-        <item itemvalue="애플리케이션.section4.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704208915135</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="docs : Seventh Section README Upload&#10;&#10;실수로 누락된 README Update">
+      <option name="closed" value="true" />
+      <created>1704247618318</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704247618318</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -298,7 +345,8 @@
     <MESSAGE value="feat : Fifth Section Upload" />
     <MESSAGE value="feat : Sixth Section Upload" />
     <MESSAGE value="feat : Seventh Section Upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : Seventh Section Upload" />
+    <MESSAGE value="docs : Seventh Section README Upload&#10;&#10;실수로 누락된 README Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs : Seventh Section README Upload&#10;&#10;실수로 누락된 README Update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

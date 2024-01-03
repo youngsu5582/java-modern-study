@@ -1,7 +1,8 @@
 package section1_addition;
 
+import function.section1_addition.CalculatorWithInjectionService;
 import org.junit.jupiter.api.Test;
-import section1_addition.calculation.Division;
+import function.section1_addition.calculation.Division;
 
 import static org.junit.jupiter.api.Assertions.*;
 
