@@ -4,51 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da4cfb8b-b9bb-4d34-b0f9-3977daa8aa19" name="Changes" comment="docs : Seventh Section README Upload&#10;&#10;실수로 누락된 README Update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/stream/section1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stream/section2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stream/section3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stream/section3/Temp.java" afterDir="false" />
+    <list default="true" id="da4cfb8b-b9bb-4d34-b0f9-3977daa8aa19" name="Changes" comment="feat : Stream - Fifth Section Upload">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1/IPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1/IPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1/NonStreamAndForSyntax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1/NonStreamAndForSyntax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1/NonStreamAndIteratorSyntax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1/NonStreamAndIteratorSyntax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1/StreamSyntax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1/StreamSyntax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/CalculatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/CalculatorService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/CalculatorWithFpService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/CalculatorWithFpService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/CalculatorWithInjectionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/CalculatorWithInjectionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/calculation/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/calculation/Addition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/calculation/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/calculation/Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/calculation/ECalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/calculation/ECalculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/calculation/ICalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/calculation/ICalculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/calculation/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/calculation/Multiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section1_addition/calculation/Subtraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section1_addition/calculation/Subtraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section4/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section5/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section6/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/TriFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section6/TriFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/BigDecimalToCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/BigDecimalToCurrency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/InvalidFunctionInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/InvalidFunctionInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/domain/DiscountedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/domain/DiscountedProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/domain/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/domain/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/domain/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/domain/OrderItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/domain/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/domain/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/util/CalculationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/section7/util/CalculationUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/section1_addition/CalculatorServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section1_addition/CalculatorServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/section1_addition/CalculatorWithInjectionServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section1_addition/CalculatorWithInjectionServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +100,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -155,13 +112,13 @@
       <recent name="section1_b" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.stream.section6.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.section1.Main" />
+      <option name="MAIN_CLASS_NAME" value="stream.section5.Main" />
       <module name="java-modern-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.section1.*" />
+          <option name="PATTERN" value="stream.section5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.section3.Temp" />
+    <configuration name="function.section7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="function.section7.Main" />
       <module name="java-modern-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.section3.*" />
+          <option name="PATTERN" value="function.section7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stream.section2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.section2.Main" />
+    <configuration name="stream.section4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.section4.Main" />
       <module name="java-modern-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.section2.*" />
+          <option name="PATTERN" value="stream.section4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stream.section3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.section3.Main" />
+    <configuration name="stream.section6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.section6.Main" />
       <module name="java-modern-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.section3.*" />
+          <option name="PATTERN" value="stream.section6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,6 +189,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.stream.section6.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.function.section7.Main" />
+        <item itemvalue="Application.stream.section4.Main" />
         <item itemvalue="Gradle.java-modern-study [dependencies]" />
       </list>
     </recent_temporary>
@@ -332,7 +293,71 @@
       <option name="project" value="LOCAL" />
       <updated>1704247618318</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="refactor : 상위 Section Function / Stream Package 로 분리">
+      <option name="closed" value="true" />
+      <created>1704281857136</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704281857136</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat : Stream - First Section Upload">
+      <option name="closed" value="true" />
+      <created>1704281889568</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704281889568</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat : Stream - Second Section Upload">
+      <option name="closed" value="true" />
+      <created>1704281895290</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704281895290</updated>
+    </task>
+    <task id="LOCAL-00014" summary="docs : Stream - First,Second,Third Section README Upload">
+      <option name="closed" value="true" />
+      <created>1704374820643</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704374820643</updated>
+    </task>
+    <task id="LOCAL-00015" summary="docs : Stream - First,Second Section README Upload">
+      <option name="closed" value="true" />
+      <created>1704377289110</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1704377289110</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat : Stream - Third Section Upload">
+      <option name="closed" value="true" />
+      <created>1704377312020</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704377312020</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat : Stream - Third Section Upload">
+      <option name="closed" value="true" />
+      <created>1704377334435</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1704377334435</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feat : Stream - Fifth Section Upload">
+      <option name="closed" value="true" />
+      <created>1704377362117</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704377362117</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -346,7 +371,14 @@
     <MESSAGE value="feat : Sixth Section Upload" />
     <MESSAGE value="feat : Seventh Section Upload" />
     <MESSAGE value="docs : Seventh Section README Upload&#10;&#10;실수로 누락된 README Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs : Seventh Section README Upload&#10;&#10;실수로 누락된 README Update" />
+    <MESSAGE value="refactor : 상위 Section Function / Stream Package 로 분리" />
+    <MESSAGE value="feat : Stream - First Section Upload" />
+    <MESSAGE value="feat : Stream - Second Section Upload" />
+    <MESSAGE value="docs : Stream - First,Second,Third Section README Upload" />
+    <MESSAGE value="docs : Stream - First,Second Section README Upload" />
+    <MESSAGE value="feat : Stream - Third Section Upload" />
+    <MESSAGE value="feat : Stream - Fifth Section Upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : Stream - Fifth Section Upload" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
