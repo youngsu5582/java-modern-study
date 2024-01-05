@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da4cfb8b-b9bb-4d34-b0f9-3977daa8aa19" name="Changes" comment="feat : Stream - Fifth Section Upload">
+    <list default="true" id="da4cfb8b-b9bb-4d34-b0f9-3977daa8aa19" name="Changes" comment="feat : Closure - Second Section Upload">
+      <change afterPath="$PROJECT_DIR$/src/main/java/high_order_function/section1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/high_order_function/section2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/high_order_function/section2/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/high_order_function/section2/domain/ProductCreator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +63,8 @@
         <option value="package-info" />
         <option value="JUnit5 Test Class" />
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -112,13 +116,13 @@
       <recent name="section1_b" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.stream.section6.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.section5.Main" />
+  <component name="RunManager" selected="Application.high_order_function.section2.Main">
+    <configuration name="closure.section2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="closure.section2.Main" />
       <module name="java-modern-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.section5.*" />
+          <option name="PATTERN" value="closure.section2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="function.section7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function.section7.Main" />
+    <configuration name="high_order_function.section1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="high_order_function.section1.Main" />
       <module name="java-modern-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="function.section7.*" />
+          <option name="PATTERN" value="high_order_function.section1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stream.section4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.section4.Main" />
+    <configuration name="high_order_function.section2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="high_order_function.section2.Main" />
       <module name="java-modern-study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.section4.*" />
+          <option name="PATTERN" value="high_order_function.section2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,35 +169,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java-modern-study [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="dependencies" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
+    <configuration name="stream.section8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.section8.Main" />
+      <module name="java-modern-study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.section8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.high_order_function.section2.Main" />
+        <item itemvalue="Application.high_order_function.section1.Main" />
+        <item itemvalue="Application.closure.section2.Main" />
+        <item itemvalue="Application.stream.section8.Main" />
         <item itemvalue="Application.stream.section6.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.function.section7.Main" />
-        <item itemvalue="Application.stream.section4.Main" />
-        <item itemvalue="Gradle.java-modern-study [dependencies]" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +352,31 @@
       <option name="project" value="LOCAL" />
       <updated>1704377362117</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="feat : Stream - Sixth Section Upload">
+      <option name="closed" value="true" />
+      <created>1704379180767</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1704379180767</updated>
+    </task>
+    <task id="LOCAL-00020" summary="feat : Closure - First Section Upload">
+      <option name="closed" value="true" />
+      <created>1704455763017</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1704455763017</updated>
+    </task>
+    <task id="LOCAL-00021" summary="feat : Closure - Second Section Upload">
+      <option name="closed" value="true" />
+      <created>1704455771250</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1704455771250</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -378,7 +397,10 @@
     <MESSAGE value="docs : Stream - First,Second Section README Upload" />
     <MESSAGE value="feat : Stream - Third Section Upload" />
     <MESSAGE value="feat : Stream - Fifth Section Upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : Stream - Fifth Section Upload" />
+    <MESSAGE value="feat : Stream - Sixth Section Upload" />
+    <MESSAGE value="feat : Closure - First Section Upload" />
+    <MESSAGE value="feat : Closure - Second Section Upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : Closure - Second Section Upload" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
