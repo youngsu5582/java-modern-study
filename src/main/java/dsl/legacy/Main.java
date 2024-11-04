@@ -1,5 +1,9 @@
 package dsl.legacy;
 
+import dsl.legacy.domain.Order;
+import dsl.legacy.domain.Stock;
+import dsl.legacy.domain.Trade;
+
 public class Main {
     public static void main(final String[] args) {
         final Order order = new Order();

@@ -1,4 +1,4 @@
-package dsl.legacy;
+package dsl.legacy.domain;
 
 import lombok.Getter;
 import lombok.Setter;
